@@ -1,6 +1,6 @@
 {
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "This post is rather misguided in my opinion", "postId": 1 },
+    { "id": 2, "body": "Great post!", "postId": 1 }
   ]
 }
